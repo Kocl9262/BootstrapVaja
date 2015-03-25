@@ -1,2 +1,0 @@
-# BootstrapVaja
-vaja

@@ -1,0 +1,24 @@
+body{
+    padding-bottom: 70px;
+}
+
+.page-header{
+    margin-top: 0;
+}
+
+.panel-body{
+    padding-top: 0;
+}
+
+.featuredImg{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.carousel-caption h3{
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.carousel-caption p{
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
